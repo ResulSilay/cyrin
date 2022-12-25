@@ -91,7 +91,7 @@ Siber Risk İstihbarat API
 ## User
 
 ```http
-  POST {{VERSION}}/user
+  GET {{VERSION}}/user
 ```
 
 | Parametre | Tip     | Açıklama                |
